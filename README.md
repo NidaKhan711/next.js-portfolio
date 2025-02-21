@@ -1,30 +1,55 @@
-# Portfolio Website
+# Next.js Portfolio Website
 
-This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
+This is a **personal portfolio website** built using **Next.js** and styled with **Tailwind CSS**. The website showcases projects, skills, and a contact form.
 
-## Installation
+## 🚀 Features
+- **Modern UI/UX** with Tailwind CSS
+- **Fast Performance** with Next.js
+- **SEO Optimized**
+- **Responsive Design** (Mobile & Desktop Friendly)
+- **Dark Mode Support**
+- **Contact Form Integration**
 
-1. Clone the repository: `git clone https://github.com/judygab/nextjs-portfolio.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `npm install`
+## 🛠️ Installation
 
-## Usage
+1. Clone the repository:
+   ```sh
+   https://github.com/NidaKhan711/next.js-portfolio.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd your-repository
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   # or
+   yarn install
+   ```
+4. Start the development server:
+   ```sh
+   npm run dev
+   # or
+   yarn dev
+   ```
+5. Open `http://localhost:3000` in your browser to see the portfolio.
 
-1. Start the development server: `npm run dev`
-2. Open your browser and visit `http://localhost:3000` to view the website.
+## 📦 Deployment
+To deploy your Next.js portfolio on **Vercel**, follow these steps:
 
-## Dependencies
+1. Install Vercel CLI (if not installed):
+   ```sh
+   npm install -g vercel
+   ```
+2. Deploy the project:
+   ```sh
+   vercel
+   ```
+3. Follow the instructions and your portfolio will be live!
 
-The following dependencies are required for this project:
+## 📄 License
+This project is **open-source** and free to use.
 
-- Next.js: A React framework for server-side rendering and static site generation.
-- Tailwind CSS: A highly customizable CSS framework.
-- React: A JavaScript library for building user interfaces.
-- React Icons: A collection of popular icons for React projects.
-- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-- Resend: Resend is the email API for developers.
+---
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
 
